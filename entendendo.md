@@ -9,10 +9,10 @@ Sim, a ISO/IEC/IEEE 12207:2017 possui um processo específico chamado Processo d
 
 ## Definição da Arquitetura do Software
 
-Projeto Detalhado do Software
-Avaliação do Design
-Documentação do Design
-O objetivo final dessas etapas é garantir a coerência e a integração ao longo de todo o ciclo de vida do software.
+- Projeto Detalhado do Software
+- Avaliação do Design
+- Documentação do Design
+  O objetivo final dessas etapas é garantir a coerência e a integração ao longo de todo o ciclo de vida do software.
 
 ## Qual a distinção entre o conceito de projeto no contexto de gerenciamento de projetos (project management) e para o contexto de design de software?
 
@@ -30,7 +30,7 @@ A norma ISO/IEC/IEEE 42010:2022 tem como objetivo padronizar a forma como arquit
 
 O foco da norma é garantir que as descrições arquiteturais sejam compreensíveis e acessíveis para todos os envolvidos no projeto, como engenheiros, gerentes e outras partes interessadas. É importante ressaltar que a norma não define como a arquitetura deve ser construída, mas sim como ela deve ser documentada, facilitando a compreensão da estrutura e dos componentes do sistema.
 
-## Finalidade da norma (ISO/IEC 25010:2011), em particular, o trecho destacado
+## Finalidade da norma (ISO/IEC 25010:2011)
 
 A norma ISO/IEC 25010:2011 foca na qualidade de produtos de software. O trecho fornecido destaca a importância de garantir que as partes interessadas, como desenvolvedores, usuários e clientes, estejam satisfeitas com o software. Isso é alcançado pela especificação e avaliação da qualidade do produto, considerando aspectos como segurança, usabilidade, eficiência, entre outros.
 
