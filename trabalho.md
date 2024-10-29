@@ -1,6 +1,12 @@
 ## Smart Decisions Game - Machine Learning
 
+link do canvas: https://www.canva.com/design/DAGTyEuwvqc/YxWF64kDEhlDQXbOy_zQZA/edit?utm_content=DAGTyEuwvqc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ### Como funciona o jogo?
+
+### Quais são os componentes?
+
+### Como é o passo a passo desse jogo?
 
 ### Quais são os tipos de carta?
 
